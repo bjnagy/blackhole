@@ -1,0 +1,2 @@
+# BW CLI (required to login, unlock vault, and interact with vault either via CLI or API via express HTTPS server) https://bitwarden.com/help/cli/#using-an-api-key
+# api documentation: https://bitwarden.com/help/vault-management-api/
